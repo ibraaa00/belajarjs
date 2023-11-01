@@ -5,7 +5,7 @@ alert("HELLO WORLD");
 let nama = "Ibrahim";
 const kelas = "XI TJKT 2";
 
-nama="Dwi Timah";
+nama="ibra";
 
 console.log(nama)
 console.log(kelas)
